@@ -1,0 +1,11 @@
+pl\qaaacademy\todo\list\exceptions\TodoListSameItemTitleException.class
+pl\qaaacademy\todo\list\exceptions\TodoListValidationException.class
+pl\qaaacademy\todo\list\TodoList.class
+pl\qaaacademy\todo\list\exceptions\NoItemWithThisTitleException.class
+pl\qaaacademy\todo\item\TodoItemArgumentsProvider.class
+pl\qaaacademy\todo\item\TodoItem.class
+pl\qaaacademy\todo\item\ItemStatus.class
+pl\qaaacademy\todo\item\utilities\StringGenerator.class
+pl\qaaacademy\todo\item\exceptions\TodoItemValidationException.class
+pl\qaaacademy\todo\item\StatusChangeable.class
+pl\qaaacademy\todo\item\exceptions\IllegalStatusTransitionException.class

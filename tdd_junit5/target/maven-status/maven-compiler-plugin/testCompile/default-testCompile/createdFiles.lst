@@ -1,0 +1,5 @@
+pl\qaaacademy\todo\item\BaseTodoItemTest.class
+pl\qaaacademy\todo\item\BasicTodoItemPropertiesTest.class
+pl\qaaacademy\todo\list\BaseTodoListPropertiesTest.class
+pl\qaaacademy\todo\list\BaseTodoListTest.class
+pl\qaaacademy\todo\matchers\ValidTodoItemMatcher.class

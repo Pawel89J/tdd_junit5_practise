@@ -1,0 +1,11 @@
+C:\Users\pawel.jakubus\IdeaProjects\tdd_junit5\src\main\java\pl\qaaacademy\todo\item\exceptions\IllegalStatusTransitionException.java
+C:\Users\pawel.jakubus\IdeaProjects\tdd_junit5\src\main\java\pl\qaaacademy\todo\item\ItemStatus.java
+C:\Users\pawel.jakubus\IdeaProjects\tdd_junit5\src\main\java\pl\qaaacademy\todo\list\exceptions\NoItemWithThisTitleException.java
+C:\Users\pawel.jakubus\IdeaProjects\tdd_junit5\src\main\java\pl\qaaacademy\todo\list\exceptions\TodoListSameItemTitleException.java
+C:\Users\pawel.jakubus\IdeaProjects\tdd_junit5\src\main\java\pl\qaaacademy\todo\item\exceptions\TodoItemValidationException.java
+C:\Users\pawel.jakubus\IdeaProjects\tdd_junit5\src\main\java\pl\qaaacademy\todo\item\TodoItem.java
+C:\Users\pawel.jakubus\IdeaProjects\tdd_junit5\src\main\java\pl\qaaacademy\todo\item\utilities\StringGenerator.java
+C:\Users\pawel.jakubus\IdeaProjects\tdd_junit5\src\main\java\pl\qaaacademy\todo\item\StatusChangeable.java
+C:\Users\pawel.jakubus\IdeaProjects\tdd_junit5\src\main\java\pl\qaaacademy\todo\list\exceptions\TodoListValidationException.java
+C:\Users\pawel.jakubus\IdeaProjects\tdd_junit5\src\main\java\pl\qaaacademy\todo\list\TodoList.java
+C:\Users\pawel.jakubus\IdeaProjects\tdd_junit5\src\main\java\pl\qaaacademy\todo\item\TodoItemArgumentsProvider.java
